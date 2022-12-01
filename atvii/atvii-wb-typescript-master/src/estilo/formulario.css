@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn{
+    margin-right: 50px;
+  }
